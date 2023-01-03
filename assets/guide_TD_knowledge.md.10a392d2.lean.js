@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,b as e}from"./app.4d99fb58.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/TD/knowledge.md"}'),p={name:"guide/TD/knowledge.md"},o=e("",1),l=[o];function t(c,r,i,d,u,A){return a(),n("div",null,l)}const y=s(p,[["render",t]]);export{C as __pageData,y as default};

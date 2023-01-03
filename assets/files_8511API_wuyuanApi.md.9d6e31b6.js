@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as s}from"./app.4d99fb58.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"files/8511API/wuyuanApi.md"}'),n={name:"files/8511API/wuyuanApi.md"},o=s("p",null,"123",-1),r=[o];function c(i,p,_,d,l,u){return a(),t("div",null,r)}const h=e(n,[["render",c]]);export{m as __pageData,h as default};
