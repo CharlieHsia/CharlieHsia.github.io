@@ -1,0 +1,16 @@
+{
+  "name": "vitepress-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "bash deploy.sh",
+    "docs:dev": "vitepress dev docs --host 0.0.0.0 --port 9090",
+
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.17"
+  }
+}
