@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a as o}from"./app.4d99fb58.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"files/8511API/ganraoApi.md"}'),s={name:"files/8511API/ganraoApi.md"},n=o("p",null,"123",-1),r=[n];function c(i,p,_,d,l,f){return t(),a("div",null,r)}const h=e(s,[["render",c]]);export{u as __pageData,h as default};
